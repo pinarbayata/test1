@@ -1,0 +1,14 @@
+{
+  "name": "d311c641c532804e",
+  "main": "d311c641c532804e@514.js",
+  "version": "514.0.0",
+  "homepage": "https://observablehq.com/d/d311c641c532804e",
+  "author": {
+    "name": "Pinartest's Workspace",
+    "url": "https://observablehq.com/@pinartest-ws"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
